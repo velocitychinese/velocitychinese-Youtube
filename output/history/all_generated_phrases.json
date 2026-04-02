@@ -29,7 +29,37 @@
       "chinese": "好事多磨，耐心等待。",
       "category": "Hope",
       "generated_at": "2026-04-02T03:14:27.311876"
+    },
+    {
+      "english": "Unlock the city, one word at a time.",
+      "chinese": "解锁城市，一词一语。",
+      "category": "Success",
+      "generated_at": "2026-04-02T03:18:45.037737"
+    },
+    {
+      "english": "Taste adventure, speak the menu.",
+      "chinese": "品味冒险，读懂菜单。",
+      "category": "Success",
+      "generated_at": "2026-04-02T03:18:45.037746"
+    },
+    {
+      "english": "Go local, learn the lingo.",
+      "chinese": "深入本地，学点方言。",
+      "category": "Success",
+      "generated_at": "2026-04-02T03:18:45.037747"
+    },
+    {
+      "english": "Navigate easy, ask for directions.",
+      "chinese": "轻松导航，问路再说。",
+      "category": "Success",
+      "generated_at": "2026-04-02T03:18:45.037748"
+    },
+    {
+      "english": "Connect deeply, share a smile.",
+      "chinese": "深度连接，分享微笑。",
+      "category": "Success",
+      "generated_at": "2026-04-02T03:18:45.037750"
     }
   ],
-  "last_updated": "2026-04-02T03:14:27.311877"
+  "last_updated": "2026-04-02T03:18:45.037751"
 }
