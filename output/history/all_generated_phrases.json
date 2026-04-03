@@ -209,7 +209,37 @@
       "chinese": "说声你好，交个朋友。",
       "category": "Purpose",
       "generated_at": "2026-04-03T06:02:02.703599"
+    },
+    {
+      "english": "Breathe deep, find calm.",
+      "chinese": "深呼吸，找平静。",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-03T15:29:08.443206"
+    },
+    {
+      "english": "Notice details, see more.",
+      "chinese": "留意细节，看得更多。",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-03T15:29:08.443213"
+    },
+    {
+      "english": "Slow down, enjoy the moment.",
+      "chinese": "放慢，享受当下。",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-03T15:29:08.443215"
+    },
+    {
+      "english": "One thought at a time.",
+      "chinese": "一次一个想法。",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-03T15:29:08.443216"
+    },
+    {
+      "english": "Feel your feet, on the ground.",
+      "chinese": "感受双脚，踩着大地。",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-03T15:29:08.443217"
     }
   ],
-  "last_updated": "2026-04-03T06:02:02.703601"
+  "last_updated": "2026-04-03T15:29:08.443218"
 }
