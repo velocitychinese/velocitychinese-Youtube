@@ -179,7 +179,37 @@
       "chinese": "别怕口音，大胆说。",
       "category": "Growth",
       "generated_at": "2026-04-02T23:06:40.539153"
+    },
+    {
+      "english": "Order food, like a local.",
+      "chinese": "点餐，像当地人一样。",
+      "category": "Purpose",
+      "generated_at": "2026-04-03T06:02:02.703586"
+    },
+    {
+      "english": "Ask directions, get there fast.",
+      "chinese": "问路，快速到达。",
+      "category": "Purpose",
+      "generated_at": "2026-04-03T06:02:02.703595"
+    },
+    {
+      "english": "Bargain politely, save some yuan.",
+      "chinese": "礼貌砍价，省点钱。",
+      "category": "Purpose",
+      "generated_at": "2026-04-03T06:02:02.703596"
+    },
+    {
+      "english": "Read signs, navigate easier.",
+      "chinese": "读懂招牌，出行更轻松。",
+      "category": "Purpose",
+      "generated_at": "2026-04-03T06:02:02.703598"
+    },
+    {
+      "english": "Say 'hello', make a friend.",
+      "chinese": "说声你好，交个朋友。",
+      "category": "Purpose",
+      "generated_at": "2026-04-03T06:02:02.703599"
     }
   ],
-  "last_updated": "2026-04-02T23:06:40.539156"
+  "last_updated": "2026-04-03T06:02:02.703601"
 }
