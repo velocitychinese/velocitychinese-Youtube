@@ -329,7 +329,37 @@
       "chinese": "展示你的火焰。",
       "category": "Courage",
       "generated_at": "2026-04-03T23:51:19.801095"
+    },
+    {
+      "english": "Keep trying, never quit.",
+      "chinese": "坚持试，不放弃。",
+      "category": "Perseverance",
+      "generated_at": "2026-04-04T05:38:27.248342"
+    },
+    {
+      "english": "Don't fear failure, learn.",
+      "chinese": "不怕错，学习中。",
+      "category": "Perseverance",
+      "generated_at": "2026-04-04T05:38:27.248351"
+    },
+    {
+      "english": "Every effort, counts.",
+      "chinese": "每次努力，都算数。",
+      "category": "Perseverance",
+      "generated_at": "2026-04-04T05:38:27.248353"
+    },
+    {
+      "english": "Little by little, success.",
+      "chinese": "一点一滴，就成功。",
+      "category": "Perseverance",
+      "generated_at": "2026-04-04T05:38:27.248354"
+    },
+    {
+      "english": "Focus on the progress.",
+      "chinese": "专注你的进步。",
+      "category": "Perseverance",
+      "generated_at": "2026-04-04T05:38:27.248355"
     }
   ],
-  "last_updated": "2026-04-03T23:51:19.801096"
+  "last_updated": "2026-04-04T05:38:27.248356"
 }
