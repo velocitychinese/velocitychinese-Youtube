@@ -509,7 +509,37 @@
       "chinese": "太多，太少，找中间!",
       "category": "Balance",
       "generated_at": "2026-04-05T06:05:13.765559"
+    },
+    {
+      "english": "Keep going, don't stop.",
+      "chinese": "继续, 别停。",
+      "category": "Hope",
+      "generated_at": "2026-04-05T14:57:41.611140"
+    },
+    {
+      "english": "You can do it, believe.",
+      "chinese": "你能行, 相信。",
+      "category": "Hope",
+      "generated_at": "2026-04-05T14:57:41.611148"
+    },
+    {
+      "english": "Small steps, big results.",
+      "chinese": "小步子, 大结果。",
+      "category": "Hope",
+      "generated_at": "2026-04-05T14:57:41.611149"
+    },
+    {
+      "english": "Learn a little, every day.",
+      "chinese": "每天学一点。",
+      "category": "Hope",
+      "generated_at": "2026-04-05T14:57:41.611150"
+    },
+    {
+      "english": "Hang in there, be strong.",
+      "chinese": "坚持住, 挺住。",
+      "category": "Hope",
+      "generated_at": "2026-04-05T14:57:41.611152"
     }
   ],
-  "last_updated": "2026-04-05T06:05:13.765561"
+  "last_updated": "2026-04-05T14:57:41.611153"
 }
