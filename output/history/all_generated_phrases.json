@@ -599,7 +599,37 @@
       "chinese": "面对现实，大声唱！",
       "category": "Courage",
       "generated_at": "2026-04-05T20:00:06.473767"
+    },
+    {
+      "english": "Learn a bit, daily. It grows.",
+      "chinese": "每天学一点, 进步多.",
+      "category": "Hope",
+      "generated_at": "2026-04-05T23:06:05.818664"
+    },
+    {
+      "english": "Try new words, often. They stick.",
+      "chinese": "常试新词, 易记住.",
+      "category": "Hope",
+      "generated_at": "2026-04-05T23:06:05.818671"
+    },
+    {
+      "english": "Speak slowly, clearly. They understand.",
+      "chinese": "说慢点, 清晰点, 能懂.",
+      "category": "Hope",
+      "generated_at": "2026-04-05T23:06:05.818672"
+    },
+    {
+      "english": "Listen a lot, more. You'll get it.",
+      "chinese": "多听听, 听多点, 就懂.",
+      "category": "Hope",
+      "generated_at": "2026-04-05T23:06:05.818673"
+    },
+    {
+      "english": "Don't fear, asking. It helps you.",
+      "chinese": "别怕问, 帮助大.",
+      "category": "Hope",
+      "generated_at": "2026-04-05T23:06:05.818674"
     }
   ],
-  "last_updated": "2026-04-05T20:00:06.473769"
+  "last_updated": "2026-04-05T23:06:05.818676"
 }
