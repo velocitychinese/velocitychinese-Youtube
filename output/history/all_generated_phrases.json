@@ -539,7 +539,37 @@
       "chinese": "坚持住, 挺住。",
       "category": "Hope",
       "generated_at": "2026-04-05T14:57:41.611152"
+    },
+    {
+      "english": "Not 'very good', but 'so-so'.",
+      "chinese": "不是“很好”，是“还好”。",
+      "category": "Joy",
+      "generated_at": "2026-04-05T17:19:50.706423"
+    },
+    {
+      "english": "Say 'hello', not 'how are you'.",
+      "chinese": "说“你好”，不是“你好吗”。",
+      "category": "Joy",
+      "generated_at": "2026-04-05T17:19:50.706430"
+    },
+    {
+      "english": "It's 'delicious', not 'very tasty'.",
+      "chinese": "是“好吃”，不是“很美味”。",
+      "category": "Joy",
+      "generated_at": "2026-04-05T17:19:50.706432"
+    },
+    {
+      "english": "We say 'tired', not 'exhausted'.",
+      "chinese": "我们说“累”，不说“疲惫”。",
+      "category": "Joy",
+      "generated_at": "2026-04-05T17:19:50.706433"
+    },
+    {
+      "english": "It's 'raining', not 'water falling'.",
+      "chinese": "是“下雨”，不是“水在掉”。",
+      "category": "Joy",
+      "generated_at": "2026-04-05T17:19:50.706434"
     }
   ],
-  "last_updated": "2026-04-05T14:57:41.611153"
+  "last_updated": "2026-04-05T17:19:50.706436"
 }
