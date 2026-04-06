@@ -749,7 +749,37 @@
       "chinese": "错，是功课。",
       "category": "Purpose",
       "generated_at": "2026-04-06T21:00:28.748969"
+    },
+    {
+      "english": "Don't worry, you're doing great.",
+      "chinese": "别担心, 你做得很好。",
+      "category": "Strength",
+      "generated_at": "2026-04-06T23:54:50.998447"
+    },
+    {
+      "english": "Focus on speaking, not perfection.",
+      "chinese": "注重说, 不是完美。",
+      "category": "Strength",
+      "generated_at": "2026-04-06T23:54:50.998456"
+    },
+    {
+      "english": "Every practice, makes you stronger.",
+      "chinese": "每次练习, 让你更强。",
+      "category": "Strength",
+      "generated_at": "2026-04-06T23:54:50.998458"
+    },
+    {
+      "english": "Be brave, try new words.",
+      "chinese": "勇敢些, 试新词。",
+      "category": "Strength",
+      "generated_at": "2026-04-06T23:54:50.998459"
+    },
+    {
+      "english": "Don't be shy, just speak.",
+      "chinese": "别害羞, 就说吧。",
+      "category": "Strength",
+      "generated_at": "2026-04-06T23:54:50.998460"
     }
   ],
-  "last_updated": "2026-04-06T21:00:28.748971"
+  "last_updated": "2026-04-06T23:54:50.998462"
 }
