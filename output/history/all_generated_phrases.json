@@ -959,7 +959,37 @@
       "chinese": "韧性，弯不折。",
       "category": "Strength",
       "generated_at": "2026-04-08T07:32:07.190012"
+    },
+    {
+      "english": "Speak up, don't be shy!",
+      "chinese": "大胆说, 别怕!",
+      "category": "Confidence",
+      "generated_at": "2026-04-08T16:45:21.708634"
+    },
+    {
+      "english": "Mistakes? That's how we learn!",
+      "chinese": "犯错? 这样学!",
+      "category": "Confidence",
+      "generated_at": "2026-04-08T16:45:21.708643"
+    },
+    {
+      "english": "Try it, what's the worst?",
+      "chinese": "试试看, 怕啥?",
+      "category": "Confidence",
+      "generated_at": "2026-04-08T16:45:21.708645"
+    },
+    {
+      "english": "You got this, for real!",
+      "chinese": "你能行, 真的!",
+      "category": "Confidence",
+      "generated_at": "2026-04-08T16:45:21.708646"
+    },
+    {
+      "english": "Ask questions, be curious!",
+      "chinese": "问问题, 好奇心!",
+      "category": "Confidence",
+      "generated_at": "2026-04-08T16:45:21.708647"
     }
   ],
-  "last_updated": "2026-04-08T07:32:07.190015"
+  "last_updated": "2026-04-08T16:45:21.708648"
 }
