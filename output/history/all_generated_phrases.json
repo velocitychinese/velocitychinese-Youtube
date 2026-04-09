@@ -1199,7 +1199,37 @@
       "chinese": "这是你的时刻，冲！",
       "category": "Motivation",
       "generated_at": "2026-04-09T21:35:45.614329"
+    },
+    {
+      "english": "Little steps, big smiles.",
+      "chinese": "小步走, 大大笑。",
+      "category": "Success",
+      "generated_at": "2026-04-09T23:57:10.105350"
+    },
+    {
+      "english": "Talk slow, win flow.",
+      "chinese": "说慢点, 语流顺。",
+      "category": "Success",
+      "generated_at": "2026-04-09T23:57:10.105358"
+    },
+    {
+      "english": "Hear me? Good! Speak!",
+      "chinese": "听懂了吗？好！说！",
+      "category": "Success",
+      "generated_at": "2026-04-09T23:57:10.105360"
+    },
+    {
+      "english": "You got this, trust me!",
+      "chinese": "你能行，信我！",
+      "category": "Success",
+      "generated_at": "2026-04-09T23:57:10.105361"
+    },
+    {
+      "english": "Sounds weird? Still good!",
+      "chinese": "听着怪？还不错！",
+      "category": "Success",
+      "generated_at": "2026-04-09T23:57:10.105362"
     }
   ],
-  "last_updated": "2026-04-09T21:35:45.614331"
+  "last_updated": "2026-04-09T23:57:10.105364"
 }
