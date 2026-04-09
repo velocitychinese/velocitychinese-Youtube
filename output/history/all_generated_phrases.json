@@ -1109,7 +1109,37 @@
       "chinese": "再说一遍，为我？",
       "category": "Confidence",
       "generated_at": "2026-04-09T06:11:44.814338"
+    },
+    {
+      "english": "Listen first, then speak.",
+      "chinese": "先听,再说。",
+      "category": "Wisdom",
+      "generated_at": "2026-04-09T16:53:51.610173"
+    },
+    {
+      "english": "Mistakes are, good teachers.",
+      "chinese": "错觉, 是好老师。",
+      "category": "Wisdom",
+      "generated_at": "2026-04-09T16:53:51.610182"
+    },
+    {
+      "english": "Every word, counts for something.",
+      "chinese": "每个字,都重要。",
+      "category": "Wisdom",
+      "generated_at": "2026-04-09T16:53:51.610184"
+    },
+    {
+      "english": "Ask questions, always ask.",
+      "chinese": "多问问,一直问。",
+      "category": "Wisdom",
+      "generated_at": "2026-04-09T16:53:51.610185"
+    },
+    {
+      "english": "Connect thoughts, speak naturally.",
+      "chinese": "连词意,说自然。",
+      "category": "Wisdom",
+      "generated_at": "2026-04-09T16:53:51.610186"
     }
   ],
-  "last_updated": "2026-04-09T06:11:44.814340"
+  "last_updated": "2026-04-09T16:53:51.610187"
 }
