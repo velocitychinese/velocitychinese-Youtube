@@ -1079,7 +1079,37 @@
       "chinese": "进步，而非完美。",
       "category": "Motivation",
       "generated_at": "2026-04-08T23:55:47.477020"
+    },
+    {
+      "english": "Your Chinese is cute, you know?",
+      "chinese": "你的中文很可爱，你知道吗？",
+      "category": "Confidence",
+      "generated_at": "2026-04-09T06:11:44.814323"
+    },
+    {
+      "english": "Let's practice, just us two.",
+      "chinese": "我们练习一下，我们两个人。",
+      "category": "Confidence",
+      "generated_at": "2026-04-09T06:11:44.814334"
+    },
+    {
+      "english": "You're really trying, I see.",
+      "chinese": "你真的在努力，我看到了。",
+      "category": "Confidence",
+      "generated_at": "2026-04-09T06:11:44.814336"
+    },
+    {
+      "english": "Don't worry, I'll help you.",
+      "chinese": "别担心，我会帮你的。",
+      "category": "Confidence",
+      "generated_at": "2026-04-09T06:11:44.814337"
+    },
+    {
+      "english": "Say it again, for me?",
+      "chinese": "再说一遍，为我？",
+      "category": "Confidence",
+      "generated_at": "2026-04-09T06:11:44.814338"
     }
   ],
-  "last_updated": "2026-04-08T23:55:47.477022"
+  "last_updated": "2026-04-09T06:11:44.814340"
 }
