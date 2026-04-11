@@ -1439,7 +1439,37 @@
       "chinese": "耐心点，好事会来。",
       "category": "Kindness",
       "generated_at": "2026-04-11T14:59:02.205357"
+    },
+    {
+      "english": "Try again, you're learning.",
+      "chinese": "再试一次，你正在学习。",
+      "category": "Confidence",
+      "generated_at": "2026-04-11T17:51:18.652962"
+    },
+    {
+      "english": "Speak up, your voice matters.",
+      "chinese": "大胆说，你的声音很重要。",
+      "category": "Confidence",
+      "generated_at": "2026-04-11T17:51:18.652972"
+    },
+    {
+      "english": "Ask questions, find answers.",
+      "chinese": "多问问题，找到答案。",
+      "category": "Confidence",
+      "generated_at": "2026-04-11T17:51:18.652973"
+    },
+    {
+      "english": "Mistakes are okay, grow from them.",
+      "chinese": "犯错没关系，从中成长。",
+      "category": "Confidence",
+      "generated_at": "2026-04-11T17:51:18.652974"
+    },
+    {
+      "english": "Practice makes progress, not perfect.",
+      "chinese": "熟能生巧，不是完美。",
+      "category": "Confidence",
+      "generated_at": "2026-04-11T17:51:18.652976"
     }
   ],
-  "last_updated": "2026-04-11T14:59:02.205359"
+  "last_updated": "2026-04-11T17:51:18.652978"
 }
