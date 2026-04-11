@@ -1499,7 +1499,37 @@
       "chinese": "我的挚友，你真是，如此。",
       "category": "Friendship",
       "generated_at": "2026-04-11T20:00:58.697151"
+    },
+    {
+      "english": "Believe you can, do it.",
+      "chinese": "相信自己，就能做到。",
+      "category": "Hope",
+      "generated_at": "2026-04-11T23:06:18.436421"
+    },
+    {
+      "english": "You are stronger, than you think.",
+      "chinese": "你比想象的，更强大。",
+      "category": "Hope",
+      "generated_at": "2026-04-11T23:06:18.436432"
+    },
+    {
+      "english": "Keep trying, it gets easier.",
+      "chinese": "继续尝试，会变容易。",
+      "category": "Hope",
+      "generated_at": "2026-04-11T23:06:18.436434"
+    },
+    {
+      "english": "Good thoughts, good outcomes.",
+      "chinese": "好念头，好结果。",
+      "category": "Hope",
+      "generated_at": "2026-04-11T23:06:18.436435"
+    },
+    {
+      "english": "Learn something new, daily.",
+      "chinese": "每天，学点新东西。",
+      "category": "Hope",
+      "generated_at": "2026-04-11T23:06:18.436436"
     }
   ],
-  "last_updated": "2026-04-11T20:00:58.697156"
+  "last_updated": "2026-04-11T23:06:18.436438"
 }
