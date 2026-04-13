@@ -1679,7 +1679,37 @@
       "chinese": "你的努力, 永远有价值。",
       "category": "Confidence",
       "generated_at": "2026-04-12T23:55:46.000691"
+    },
+    {
+      "english": "Try again, be patient.",
+      "chinese": "再试一次，要有耐心。",
+      "category": "Inspiration",
+      "generated_at": "2026-04-13T07:30:25.751071"
+    },
+    {
+      "english": "Don't fear, the unknown.",
+      "chinese": "别害怕，未知。",
+      "category": "Inspiration",
+      "generated_at": "2026-04-13T07:30:25.751080"
+    },
+    {
+      "english": "Ask questions, learn faster.",
+      "chinese": "问问题，学更快。",
+      "category": "Inspiration",
+      "generated_at": "2026-04-13T07:30:25.751082"
+    },
+    {
+      "english": "Practice more, improve quickly.",
+      "chinese": "多练习，快提高。",
+      "category": "Inspiration",
+      "generated_at": "2026-04-13T07:30:25.751083"
+    },
+    {
+      "english": "Celebrate wins, learn from loss.",
+      "chinese": "庆祝赢，从输中学习。",
+      "category": "Inspiration",
+      "generated_at": "2026-04-13T07:30:25.751084"
     }
   ],
-  "last_updated": "2026-04-12T23:55:46.000693"
+  "last_updated": "2026-04-13T07:30:25.751086"
 }
