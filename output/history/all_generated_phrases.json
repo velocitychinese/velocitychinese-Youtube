@@ -1739,7 +1739,37 @@
       "chinese": "力量增长，在考验中。",
       "category": "Courage",
       "generated_at": "2026-07-13T16:38:58.354399"
+    },
+    {
+      "english": "Keep going, you're closer.",
+      "chinese": "继续, 你更近了。",
+      "category": "Hope",
+      "generated_at": "2026-07-13T20:53:50.419362"
+    },
+    {
+      "english": "Don't give up, just breathe.",
+      "chinese": "别放弃, 喘口气。",
+      "category": "Hope",
+      "generated_at": "2026-07-13T20:53:50.419375"
+    },
+    {
+      "english": "You can do this, truly.",
+      "chinese": "你能做到, 真的。",
+      "category": "Hope",
+      "generated_at": "2026-07-13T20:53:50.419377"
+    },
+    {
+      "english": "Tomorrow's a new start.",
+      "chinese": "明天新开始。",
+      "category": "Hope",
+      "generated_at": "2026-07-13T20:53:50.419378"
+    },
+    {
+      "english": "Just take one more step.",
+      "chinese": "再迈一步。",
+      "category": "Hope",
+      "generated_at": "2026-07-13T20:53:50.419379"
     }
   ],
-  "last_updated": "2026-07-13T16:38:58.354401"
+  "last_updated": "2026-07-13T20:53:50.419380"
 }
