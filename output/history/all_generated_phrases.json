@@ -3089,7 +3089,37 @@
       "chinese": "小步走, 大步去, 你能行.",
       "category": "Confidence",
       "generated_at": "2026-08-07T14:57:42.073241"
+    },
+    {
+      "english": "Work hard, play harder, learn more.",
+      "chinese": "努力工作，尽情玩，多学习。",
+      "category": "Balance",
+      "generated_at": "2026-08-07T20:47:39.287428"
+    },
+    {
+      "english": "Sip tea, with good company.",
+      "chinese": "品杯茶，交好友。",
+      "category": "Balance",
+      "generated_at": "2026-08-07T20:47:39.287437"
+    },
+    {
+      "english": "Walk slowly, see the world.",
+      "chinese": "慢步走，看世界。",
+      "category": "Balance",
+      "generated_at": "2026-08-07T20:47:39.287439"
+    },
+    {
+      "english": "Share a smile, spread good vibes.",
+      "chinese": "分享笑，传好心情。",
+      "category": "Balance",
+      "generated_at": "2026-08-07T20:47:39.287440"
+    },
+    {
+      "english": "Eat well, feel great, every day.",
+      "chinese": "吃得好，感觉棒，每天。",
+      "category": "Balance",
+      "generated_at": "2026-08-07T20:47:39.287441"
     }
   ],
-  "last_updated": "2026-08-07T14:57:42.073243"
+  "last_updated": "2026-08-07T20:47:39.287443"
 }
