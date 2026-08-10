@@ -3239,7 +3239,37 @@
       "chinese": "没事的，我们继续。",
       "category": "Forgiveness",
       "generated_at": "2026-08-09T20:24:55.764585"
+    },
+    {
+      "english": "Every character, a small story.",
+      "chinese": "每个字, 一个故事。",
+      "category": "Success",
+      "generated_at": "2026-08-10T15:03:22.239434"
+    },
+    {
+      "english": "Practice makes perfect, remember this.",
+      "chinese": "熟能生巧, 记牢。",
+      "category": "Success",
+      "generated_at": "2026-08-10T15:03:22.239450"
+    },
+    {
+      "english": "Speak clearly, be understood.",
+      "chinese": "说清楚, 能懂。",
+      "category": "Success",
+      "generated_at": "2026-08-10T15:03:22.239452"
+    },
+    {
+      "english": "Feel the rhythm, of the language.",
+      "chinese": "感受韵律, 语言。",
+      "category": "Success",
+      "generated_at": "2026-08-10T15:03:22.239454"
+    },
+    {
+      "english": "Patience is key, for progress.",
+      "chinese": "耐心是关键, 进步。",
+      "category": "Success",
+      "generated_at": "2026-08-10T15:03:22.239456"
     }
   ],
-  "last_updated": "2026-08-09T20:24:55.764586"
+  "last_updated": "2026-08-10T15:03:22.239458"
 }
