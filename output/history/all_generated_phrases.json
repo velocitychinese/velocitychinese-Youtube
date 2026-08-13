@@ -3389,7 +3389,37 @@
       "chinese": "慢点说，就对。",
       "category": "Strength",
       "generated_at": "2026-08-12T20:36:45.523360"
+    },
+    {
+      "english": "Breathe deep, then speak.",
+      "chinese": "深呼吸, 再开口。",
+      "category": "Balance",
+      "generated_at": "2026-08-13T15:02:20.353043"
+    },
+    {
+      "english": "Patience is key, friends.",
+      "chinese": "耐心是关键, 朋友们。",
+      "category": "Balance",
+      "generated_at": "2026-08-13T15:02:20.353055"
+    },
+    {
+      "english": "Steady effort, wins the race.",
+      "chinese": "稳定努力, 赢得比赛。",
+      "category": "Balance",
+      "generated_at": "2026-08-13T15:02:20.353057"
+    },
+    {
+      "english": "Rest is important, too.",
+      "chinese": "休息也很重要。",
+      "category": "Balance",
+      "generated_at": "2026-08-13T15:02:20.353058"
+    },
+    {
+      "english": "Keep growing, but stay grounded.",
+      "chinese": "保持成长, 但脚踏实地。",
+      "category": "Balance",
+      "generated_at": "2026-08-13T15:02:20.353059"
     }
   ],
-  "last_updated": "2026-08-12T20:36:45.523362"
+  "last_updated": "2026-08-13T15:02:20.353060"
 }
