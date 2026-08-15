@@ -3509,7 +3509,37 @@
       "chinese": "练习带来进步，记住。",
       "category": "Patience",
       "generated_at": "2026-08-14T20:25:11.383666"
+    },
+    {
+      "english": "Tomorrow is another day.",
+      "chinese": "明天又是新一天。",
+      "category": "Hope",
+      "generated_at": "2026-08-15T14:27:55.956188"
+    },
+    {
+      "english": "Keep your chin up, always.",
+      "chinese": "昂起头, 别低下。",
+      "category": "Hope",
+      "generated_at": "2026-08-15T14:27:55.956200"
+    },
+    {
+      "english": "Focus, then you will learn.",
+      "chinese": "专心听, 才学会。",
+      "category": "Hope",
+      "generated_at": "2026-08-15T14:27:55.956201"
+    },
+    {
+      "english": "When confused, ask me.",
+      "chinese": "迷糊了, 来问我。",
+      "category": "Hope",
+      "generated_at": "2026-08-15T14:27:55.956203"
+    },
+    {
+      "english": "The future is bright, wait.",
+      "chinese": "未来光明, 等一等。",
+      "category": "Hope",
+      "generated_at": "2026-08-15T14:27:55.956204"
     }
   ],
-  "last_updated": "2026-08-14T20:25:11.383669"
+  "last_updated": "2026-08-15T14:27:55.956205"
 }
