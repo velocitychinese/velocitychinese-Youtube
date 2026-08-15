@@ -3539,7 +3539,37 @@
       "chinese": "未来光明, 等一等。",
       "category": "Hope",
       "generated_at": "2026-08-15T14:27:55.956204"
+    },
+    {
+      "english": "Explore words, find meaning.",
+      "chinese": "找字，懂意思。",
+      "category": "Success",
+      "generated_at": "2026-08-15T20:15:41.823020"
+    },
+    {
+      "english": "See signs, learn fast.",
+      "chinese": "看路牌，学得快。",
+      "category": "Success",
+      "generated_at": "2026-08-15T20:15:41.823032"
+    },
+    {
+      "english": "Eat local, speak local.",
+      "chinese": "吃本地，说本地。",
+      "category": "Success",
+      "generated_at": "2026-08-15T20:15:41.823034"
+    },
+    {
+      "english": "Ask friends, get help.",
+      "chinese": "问朋友，得帮忙。",
+      "category": "Success",
+      "generated_at": "2026-08-15T20:15:41.823035"
+    },
+    {
+      "english": "Use gestures, connect.",
+      "chinese": "比划，能沟通。",
+      "category": "Success",
+      "generated_at": "2026-08-15T20:15:41.823036"
     }
   ],
-  "last_updated": "2026-08-15T14:27:55.956205"
+  "last_updated": "2026-08-15T20:15:41.823038"
 }
