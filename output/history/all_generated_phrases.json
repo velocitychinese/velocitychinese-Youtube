@@ -3599,7 +3599,37 @@
       "chinese": "说心里话，清楚。",
       "category": "Success",
       "generated_at": "2026-08-16T14:27:32.578141"
+    },
+    {
+      "english": "Little by little, Mandarin, watch out!",
+      "chinese": "一点一点，学汉语，小心咯！",
+      "category": "Confidence",
+      "generated_at": "2026-08-16T20:14:54.654261"
+    },
+    {
+      "english": "Oops, wrong word, no worries!",
+      "chinese": "哎呀，说错了，没关系！",
+      "category": "Confidence",
+      "generated_at": "2026-08-16T20:14:54.654272"
+    },
+    {
+      "english": "Hear me now, speak Chinese, wow!",
+      "chinese": "听我说，讲中文，哇！",
+      "category": "Confidence",
+      "generated_at": "2026-08-16T20:14:54.654273"
+    },
+    {
+      "english": "Chinese is fun, seriously, yes!",
+      "chinese": "中文很有趣，真的，对！",
+      "category": "Confidence",
+      "generated_at": "2026-08-16T20:14:54.654274"
+    },
+    {
+      "english": "One sentence, then two, go!",
+      "chinese": "一句话，再一句，加油！",
+      "category": "Confidence",
+      "generated_at": "2026-08-16T20:14:54.654276"
     }
   ],
-  "last_updated": "2026-08-16T14:27:32.578144"
+  "last_updated": "2026-08-16T20:14:54.654277"
 }
