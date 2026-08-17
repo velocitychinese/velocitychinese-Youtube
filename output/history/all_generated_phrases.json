@@ -3629,7 +3629,37 @@
       "chinese": "一句话，再一句，加油！",
       "category": "Confidence",
       "generated_at": "2026-08-16T20:14:54.654276"
+    },
+    {
+      "english": "Feel the vibe, speak Chinese.",
+      "chinese": "感受气氛, 说中文。",
+      "category": "Joy",
+      "generated_at": "2026-08-17T14:32:44.801850"
+    },
+    {
+      "english": "Smile, and learn, enjoy.",
+      "chinese": "微笑, 学习, 享受。",
+      "category": "Joy",
+      "generated_at": "2026-08-17T14:32:44.801860"
+    },
+    {
+      "english": "Just try, it's okay.",
+      "chinese": "试试就好, 没关系。",
+      "category": "Joy",
+      "generated_at": "2026-08-17T14:32:44.801861"
+    },
+    {
+      "english": "Speak slow, be clear.",
+      "chinese": "慢点说, 清楚点。",
+      "category": "Joy",
+      "generated_at": "2026-08-17T14:32:44.801862"
+    },
+    {
+      "english": "Listen closely, understand.",
+      "chinese": "仔细听, 就懂了。",
+      "category": "Joy",
+      "generated_at": "2026-08-17T14:32:44.801864"
     }
   ],
-  "last_updated": "2026-08-16T20:14:54.654277"
+  "last_updated": "2026-08-17T14:32:44.801865"
 }
