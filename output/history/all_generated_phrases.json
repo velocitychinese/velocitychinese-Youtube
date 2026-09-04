@@ -4679,7 +4679,37 @@
       "chinese": "静止, 带来智慧。",
       "category": "Inner Peace",
       "generated_at": "2026-09-03T22:08:04.097993"
+    },
+    {
+      "english": "Not 'I love you' much, just 'love you'.",
+      "chinese": "不是“我爱你”很多，是“爱很多”。",
+      "category": "Love",
+      "generated_at": "2026-09-04T17:29:36.853214"
+    },
+    {
+      "english": "Not 'I like you a lot', but 'like you very much'.",
+      "chinese": "不是“我喜欢你很多”，是“喜欢你非常”。",
+      "category": "Love",
+      "generated_at": "2026-09-04T17:29:36.853225"
+    },
+    {
+      "english": "Don't say 'very love', say 'love very much'.",
+      "chinese": "别说“很爱”，说“爱死你了”。",
+      "category": "Love",
+      "generated_at": "2026-09-04T17:29:36.853226"
+    },
+    {
+      "english": "It's 'miss you', not 'think you miss'.",
+      "chinese": "是“想你”，不是“想你很想”。",
+      "category": "Love",
+      "generated_at": "2026-09-04T17:29:36.853227"
+    },
+    {
+      "english": "Not 'my heart loves you', just 'love your heart'.",
+      "chinese": "不是“我心爱你”，是“爱你的心”。",
+      "category": "Love",
+      "generated_at": "2026-09-04T17:29:36.853228"
     }
   ],
-  "last_updated": "2026-09-03T22:08:04.097995"
+  "last_updated": "2026-09-04T17:29:36.853231"
 }
