@@ -4979,7 +4979,37 @@
       "chinese": "那个句子, 简直完美。",
       "category": "Confidence",
       "generated_at": "2026-09-10T17:36:39.132891"
+    },
+    {
+      "english": "You make learning, so much fun.",
+      "chinese": "你让学习，真的很有趣。",
+      "category": "Gratitude",
+      "generated_at": "2026-09-10T22:10:49.765298"
+    },
+    {
+      "english": "Your Chinese, is improving, fast!",
+      "chinese": "你的中文，进步，好快！",
+      "category": "Gratitude",
+      "generated_at": "2026-09-10T22:10:49.765308"
+    },
+    {
+      "english": "Thanks for your patience, with me.",
+      "chinese": "谢谢你，对我这么有耐心。",
+      "category": "Gratitude",
+      "generated_at": "2026-09-10T22:10:49.765310"
+    },
+    {
+      "english": "Every lesson with you, is a treat.",
+      "chinese": "跟你上课，总是很享受。",
+      "category": "Gratitude",
+      "generated_at": "2026-09-10T22:10:49.765311"
+    },
+    {
+      "english": "You understand, so quickly!",
+      "chinese": "你理解得，太快了吧！",
+      "category": "Gratitude",
+      "generated_at": "2026-09-10T22:10:49.765312"
     }
   ],
-  "last_updated": "2026-09-10T17:36:39.132893"
+  "last_updated": "2026-09-10T22:10:49.765314"
 }
