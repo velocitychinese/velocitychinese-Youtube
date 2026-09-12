@@ -5099,7 +5099,37 @@
       "chinese": "你会用新词，很自然。",
       "category": "Strength",
       "generated_at": "2026-09-12T16:52:38.175955"
+    },
+    {
+      "english": "Dare to try, you'll see.",
+      "chinese": "敢于尝试，你会看到。",
+      "category": "Courage",
+      "generated_at": "2026-09-12T21:53:14.193852"
+    },
+    {
+      "english": "Push your limits, every day.",
+      "chinese": "挑战极限，每一天。",
+      "category": "Courage",
+      "generated_at": "2026-09-12T21:53:14.193861"
+    },
+    {
+      "english": "Face your fears, grow strong.",
+      "chinese": "面对恐惧，变强大。",
+      "category": "Courage",
+      "generated_at": "2026-09-12T21:53:14.193862"
+    },
+    {
+      "english": "Take the leap, you can do it.",
+      "chinese": "勇敢迈步，你能行。",
+      "category": "Courage",
+      "generated_at": "2026-09-12T21:53:14.193863"
+    },
+    {
+      "english": "Step out, be brave.",
+      "chinese": "走出去，要勇敢。",
+      "category": "Courage",
+      "generated_at": "2026-09-12T21:53:14.193864"
     }
   ],
-  "last_updated": "2026-09-12T16:52:38.175956"
+  "last_updated": "2026-09-12T21:53:14.193866"
 }
