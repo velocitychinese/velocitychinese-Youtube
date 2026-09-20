@@ -5519,7 +5519,37 @@
       "chinese": "我们耐心点, 一起, 好吗？",
       "category": "Patience",
       "generated_at": "2026-09-19T22:01:58.245247"
+    },
+    {
+      "english": "A little more, almost there.",
+      "chinese": "再多一点，快到了。",
+      "category": "Hope",
+      "generated_at": "2026-09-20T17:21:45.766929"
+    },
+    {
+      "english": "It's okay, to be scared.",
+      "chinese": "害怕，也挺好。",
+      "category": "Hope",
+      "generated_at": "2026-09-20T17:21:45.766940"
+    },
+    {
+      "english": "One day at a time, right?",
+      "chinese": "一天一天来，对吧？",
+      "category": "Hope",
+      "generated_at": "2026-09-20T17:21:45.766941"
+    },
+    {
+      "english": "Future's bright, look ahead.",
+      "chinese": "未来光明，向前看。",
+      "category": "Hope",
+      "generated_at": "2026-09-20T17:21:45.766942"
+    },
+    {
+      "english": "You can do it, for sure.",
+      "chinese": "你肯定能做到。",
+      "category": "Hope",
+      "generated_at": "2026-09-20T17:21:45.766943"
     }
   ],
-  "last_updated": "2026-09-19T22:01:58.245248"
+  "last_updated": "2026-09-20T17:21:45.766946"
 }
