@@ -6179,7 +6179,37 @@
       "chinese": "难时，朋友是锚，稳又强。",
       "category": "Friendship",
       "generated_at": "2026-10-02T19:04:55.860976"
+    },
+    {
+      "english": "Try again, you can do it!",
+      "chinese": "再试一次，你可以！",
+      "category": "Success",
+      "generated_at": "2026-10-02T23:30:12.467345"
+    },
+    {
+      "english": "Almost there, don't give up.",
+      "chinese": "快到了，别放弃。",
+      "category": "Success",
+      "generated_at": "2026-10-02T23:30:12.467356"
+    },
+    {
+      "english": "Good job, keep going strong.",
+      "chinese": "干得好，继续加油。",
+      "category": "Success",
+      "generated_at": "2026-10-02T23:30:12.467357"
+    },
+    {
+      "english": "You're learning fast, amazing!",
+      "chinese": "你学得很快，真棒！",
+      "category": "Success",
+      "generated_at": "2026-10-02T23:30:12.467358"
+    },
+    {
+      "english": "Practice makes perfect, keep at it.",
+      "chinese": "熟能生巧，坚持练。",
+      "category": "Success",
+      "generated_at": "2026-10-02T23:30:12.467361"
     }
   ],
-  "last_updated": "2026-10-02T19:04:55.860978"
+  "last_updated": "2026-10-02T23:30:12.467363"
 }
