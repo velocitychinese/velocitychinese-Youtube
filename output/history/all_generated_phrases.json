@@ -6299,7 +6299,37 @@
       "chinese": "相信, 就能到达。",
       "category": "Perseverance",
       "generated_at": "2026-10-04T18:04:09.971475"
+    },
+    {
+      "english": "Blinking, can help you think.",
+      "chinese": "眨眼，能助思考。",
+      "category": "Strength",
+      "generated_at": "2026-10-04T22:39:58.015223"
+    },
+    {
+      "english": "Smiling, actually makes you stronger.",
+      "chinese": "微笑，让你更强壮。",
+      "category": "Strength",
+      "generated_at": "2026-10-04T22:39:58.015233"
+    },
+    {
+      "english": "Humming a tune, calms your nerves.",
+      "chinese": "哼歌，能镇定心绪。",
+      "category": "Strength",
+      "generated_at": "2026-10-04T22:39:58.015234"
+    },
+    {
+      "english": "Drinking water, boosts your brain.",
+      "chinese": "喝水，能提振大脑。",
+      "category": "Strength",
+      "generated_at": "2026-10-04T22:39:58.015236"
+    },
+    {
+      "english": "Deep breaths, give you focus.",
+      "chinese": "深呼吸，带来专注。",
+      "category": "Strength",
+      "generated_at": "2026-10-04T22:39:58.015237"
     }
   ],
-  "last_updated": "2026-10-04T18:04:09.971477"
+  "last_updated": "2026-10-04T22:39:58.015238"
 }
