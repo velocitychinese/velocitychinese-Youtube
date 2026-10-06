@@ -6419,7 +6419,37 @@
       "chinese": "继续试，就能说。",
       "category": "Confidence",
       "generated_at": "2026-10-06T19:22:20.319863"
+    },
+    {
+      "english": "You complete, my world.",
+      "chinese": "你完整了，我的世界。",
+      "category": "Love",
+      "generated_at": "2026-10-06T23:30:39.647101"
+    },
+    {
+      "english": "You are, my sunshine.",
+      "chinese": "你是，我的阳光。",
+      "category": "Love",
+      "generated_at": "2026-10-06T23:30:39.647110"
+    },
+    {
+      "english": "I miss you, a lot.",
+      "chinese": "我好想你。",
+      "category": "Love",
+      "generated_at": "2026-10-06T23:30:39.647111"
+    },
+    {
+      "english": "You are, my everything.",
+      "chinese": "你是我，的一切。",
+      "category": "Love",
+      "generated_at": "2026-10-06T23:30:39.647112"
+    },
+    {
+      "english": "Love at, first sight.",
+      "chinese": "一见钟情。",
+      "category": "Love",
+      "generated_at": "2026-10-06T23:30:39.647114"
     }
   ],
-  "last_updated": "2026-10-06T19:22:20.319865"
+  "last_updated": "2026-10-06T23:30:39.647115"
 }
