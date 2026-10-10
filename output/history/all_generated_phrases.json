@@ -6629,7 +6629,37 @@
       "chinese": "我们一起，练习中文吧。",
       "category": "Success",
       "generated_at": "2026-10-09T23:46:12.108674"
+    },
+    {
+      "english": "Keep going, the sun will rise.",
+      "chinese": "坚持住，太阳会升起。",
+      "category": "Hope",
+      "generated_at": "2026-10-10T18:21:13.516634"
+    },
+    {
+      "english": "A small seed, grows a big tree.",
+      "chinese": "小种子，长成大树。",
+      "category": "Hope",
+      "generated_at": "2026-10-10T18:21:13.516643"
+    },
+    {
+      "english": "Don't fear the wind, learn to dance.",
+      "chinese": "不怕风，学跳舞。",
+      "category": "Hope",
+      "generated_at": "2026-10-10T18:21:13.516644"
+    },
+    {
+      "english": "Every step counts, towards your goal.",
+      "chinese": "每一步，都算数。",
+      "category": "Hope",
+      "generated_at": "2026-10-10T18:21:13.516646"
+    },
+    {
+      "english": "The darkest night, has a morning.",
+      "chinese": "黑夜最黑，总有天明。",
+      "category": "Hope",
+      "generated_at": "2026-10-10T18:21:13.516647"
     }
   ],
-  "last_updated": "2026-10-09T23:46:12.108677"
+  "last_updated": "2026-10-10T18:21:13.516648"
 }
