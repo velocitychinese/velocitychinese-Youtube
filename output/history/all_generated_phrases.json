@@ -6959,7 +6959,37 @@
       "chinese": "耐心熟, 果实。",
       "category": "Strength",
       "generated_at": "2026-10-15T18:07:34.609199"
+    },
+    {
+      "english": "Oops, my bad.  Sorry!",
+      "chinese": "哎呀, 我错了.  对不起!",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-15T22:50:15.550269"
+    },
+    {
+      "english": "No worries, it's fine.",
+      "chinese": "没关系, 没事.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-15T22:50:15.550280"
+    },
+    {
+      "english": "Mistakes happen, right?",
+      "chinese": "会犯错, 是吧?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-15T22:50:15.550281"
+    },
+    {
+      "english": "Let's forget it.",
+      "chinese": "就算了吧.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-15T22:50:15.550281"
+    },
+    {
+      "english": "It's all good now.",
+      "chinese": "都过去了.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-15T22:50:15.550282"
     }
   ],
-  "last_updated": "2026-10-15T18:07:34.609200"
+  "last_updated": "2026-10-15T22:50:15.550283"
 }
