@@ -7229,7 +7229,37 @@
       "chinese": "中文很有趣，拥抱它。",
       "category": "Confidence",
       "generated_at": "2026-10-21T18:30:49.892807"
+    },
+    {
+      "english": "A calm mind, is key.",
+      "chinese": "平静的心，是关键。",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-21T22:58:20.385096"
+    },
+    {
+      "english": "Find your center, here.",
+      "chinese": "找到中心，在这里。",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-21T22:58:20.385109"
+    },
+    {
+      "english": "Feel the moment, fully.",
+      "chinese": "感受，这时刻。",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-21T22:58:20.385111"
+    },
+    {
+      "english": "Peace comes, from within.",
+      "chinese": "安宁来自，内心。",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-21T22:58:20.385113"
+    },
+    {
+      "english": "Slow down, be mindful.",
+      "chinese": "慢下来，用心。",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-21T22:58:20.385114"
     }
   ],
-  "last_updated": "2026-10-21T18:30:49.892809"
+  "last_updated": "2026-10-21T22:58:20.385116"
 }
