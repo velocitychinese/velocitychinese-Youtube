@@ -7199,7 +7199,37 @@
       "chinese": "最好的还在后面。",
       "category": "Hope",
       "generated_at": "2026-10-20T22:53:14.466028"
+    },
+    {
+      "english": "Speak Chinese, with confidence.",
+      "chinese": "自信地说中文。",
+      "category": "Confidence",
+      "generated_at": "2026-10-21T18:30:49.892795"
+    },
+    {
+      "english": "Your pronunciation, is improving.",
+      "chinese": "你的发音，在进步。",
+      "category": "Confidence",
+      "generated_at": "2026-10-21T18:30:49.892805"
+    },
+    {
+      "english": "Every word counts, keep going.",
+      "chinese": "每个词都重要，继续。",
+      "category": "Confidence",
+      "generated_at": "2026-10-21T18:30:49.892806"
+    },
+    {
+      "english": "You've got this, for real.",
+      "chinese": "你一定可以，真的。",
+      "category": "Confidence",
+      "generated_at": "2026-10-21T18:30:49.892807"
+    },
+    {
+      "english": "Chinese is fun, embrace it.",
+      "chinese": "中文很有趣，拥抱它。",
+      "category": "Confidence",
+      "generated_at": "2026-10-21T18:30:49.892807"
     }
   ],
-  "last_updated": "2026-10-20T22:53:14.466030"
+  "last_updated": "2026-10-21T18:30:49.892809"
 }
