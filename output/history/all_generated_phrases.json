@@ -7319,7 +7319,37 @@
       "chinese": "对不起，来晚了。",
       "category": "Forgiveness",
       "generated_at": "2026-10-23T18:32:21.872549"
+    },
+    {
+      "english": "Little by little, you'll master it.",
+      "chinese": "一点一滴, 你会掌握。",
+      "category": "Success",
+      "generated_at": "2026-10-23T22:49:32.313550"
+    },
+    {
+      "english": "Practice daily, it's the secret.",
+      "chinese": "每天练习, 这是秘诀。",
+      "category": "Success",
+      "generated_at": "2026-10-23T22:49:32.313560"
+    },
+    {
+      "english": "Don't be afraid, just try.",
+      "chinese": "别怕, 就试试。",
+      "category": "Success",
+      "generated_at": "2026-10-23T22:49:32.313562"
+    },
+    {
+      "english": "Mistakes are good, they teach.",
+      "chinese": "错也是好, 它们教你。",
+      "category": "Success",
+      "generated_at": "2026-10-23T22:49:32.313562"
+    },
+    {
+      "english": "Connect the dots, see the progress.",
+      "chinese": "串联起来, 看见进步。",
+      "category": "Success",
+      "generated_at": "2026-10-23T22:49:32.313563"
     }
   ],
-  "last_updated": "2026-10-23T18:32:21.872550"
+  "last_updated": "2026-10-23T22:49:32.313565"
 }
