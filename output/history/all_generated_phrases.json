@@ -7919,7 +7919,37 @@
       "chinese": "你说中文，我听着。",
       "category": "Motivation",
       "generated_at": "2026-11-03T01:57:17.276466"
+    },
+    {
+      "english": "Don’t say “I Chinese”, say “I speak Chinese”.",
+      "chinese": "别说“我中国”，说“我会说中文”。",
+      "category": "Confidence",
+      "generated_at": "2026-11-03T20:27:53.984594"
+    },
+    {
+      "english": "Use “xiexie”, not “thx”, be clear.",
+      "chinese": "用“谢谢”，别用“thx”，说清楚。",
+      "category": "Confidence",
+      "generated_at": "2026-11-03T20:27:53.984603"
+    },
+    {
+      "english": "Stop “where you are”, say “nǐ zài nǎlǐ”.",
+      "chinese": "别说“where you are”，说“你在哪儿”。",
+      "category": "Confidence",
+      "generated_at": "2026-11-03T20:27:53.984605"
+    },
+    {
+      "english": "Breathe, slow down, say the word again.",
+      "chinese": "先喘口气，慢一点，再说一遍。",
+      "category": "Confidence",
+      "generated_at": "2026-11-03T20:27:53.984606"
+    },
+    {
+      "english": "You mean “really”, not “very”, go simple.",
+      "chinese": "你要说“真的吗”，别说“很”，简单点。",
+      "category": "Confidence",
+      "generated_at": "2026-11-03T20:27:53.984607"
     }
   ],
-  "last_updated": "2026-11-03T01:57:17.276468"
+  "last_updated": "2026-11-03T20:27:53.984609"
 }
