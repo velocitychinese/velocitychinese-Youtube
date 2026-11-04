@@ -7949,7 +7949,37 @@
       "chinese": "你要说“真的吗”，别说“很”，简单点。",
       "category": "Confidence",
       "generated_at": "2026-11-03T20:27:53.984607"
+    },
+    {
+      "english": "Say it softly, I’ll listen closely, okay?",
+      "chinese": "你先慢点说, 我会认真听, 好吗？",
+      "category": "Growth",
+      "generated_at": "2026-11-04T00:19:33.704920"
+    },
+    {
+      "english": "Meet me in Mandarin, we’ll start with one word.",
+      "chinese": "用普通话找我, 我们先从一个词开始。",
+      "category": "Growth",
+      "generated_at": "2026-11-04T00:19:33.704932"
+    },
+    {
+      "english": "Smile and repeat, your tongue will relax.",
+      "chinese": "笑着重复, 你嘴会更放松。",
+      "category": "Growth",
+      "generated_at": "2026-11-04T00:19:33.704933"
+    },
+    {
+      "english": "Casual practice, you and I, just breathe, go.",
+      "chinese": "轻松练习, 你和我, 呼吸一下, 开始。",
+      "category": "Growth",
+      "generated_at": "2026-11-04T00:19:33.704934"
+    },
+    {
+      "english": "Make mistakes now, I’ll cheer for you.",
+      "chinese": "现在可以错, 我会为你加油。",
+      "category": "Growth",
+      "generated_at": "2026-11-04T00:19:33.704935"
     }
   ],
-  "last_updated": "2026-11-03T20:27:53.984609"
+  "last_updated": "2026-11-04T00:19:33.704937"
 }
