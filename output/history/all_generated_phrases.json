@@ -8339,7 +8339,37 @@
       "chinese": "卡住了, 喝杯茶, 再试试",
       "category": "Happiness",
       "generated_at": "2026-11-10T02:29:22.622458"
+    },
+    {
+      "english": "Love first, then say it slowly",
+      "chinese": "先喜欢, 再慢慢说出来",
+      "category": "Love",
+      "generated_at": "2026-11-10T20:45:02.024351"
+    },
+    {
+      "english": "I miss you, say it in Chinese",
+      "chinese": "我想你, 用中文说出来",
+      "category": "Love",
+      "generated_at": "2026-11-10T20:45:02.024378"
+    },
+    {
+      "english": "You matter, I mean it, always",
+      "chinese": "你很重要, 我说真的, 一直都在",
+      "category": "Love",
+      "generated_at": "2026-11-10T20:45:02.024380"
+    },
+    {
+      "english": "Be my person, let’s talk tonight",
+      "chinese": "做我的那个人, 今晚聊聊",
+      "category": "Love",
+      "generated_at": "2026-11-10T20:45:02.024382"
+    },
+    {
+      "english": "Hold my hand, we’ll be okay",
+      "chinese": "牵着我的手, 我们会没事的",
+      "category": "Love",
+      "generated_at": "2026-11-10T20:45:02.024383"
     }
   ],
-  "last_updated": "2026-11-10T02:29:22.622460"
+  "last_updated": "2026-11-10T20:45:02.024386"
 }
