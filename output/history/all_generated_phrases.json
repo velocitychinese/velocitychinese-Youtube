@@ -8749,7 +8749,42 @@
       "transliteration": "Wǒ yī xiào, tiān jiù gèng hǎo.",
       "category": "Happiness",
       "generated_at": "2026-11-15T23:39:43.235120"
+    },
+    {
+      "english": "Start small, then make it better.",
+      "chinese": "先从小处开始, 再把它做得更好.",
+      "transliteration": "Xiān cóng xiǎo chù kāishǐ, zài bǎ tā zuò de gèng hǎo.",
+      "category": "Creativity",
+      "generated_at": "2026-11-16T23:16:38.208643"
+    },
+    {
+      "english": "Try a twist, and see what happens.",
+      "chinese": "换个花样试试, 看看会怎样.",
+      "transliteration": "Huàn gè huāyàng shì shì, kànkan huì zěnmeyàng.",
+      "category": "Creativity",
+      "generated_at": "2026-11-16T23:16:38.208655"
+    },
+    {
+      "english": "Mix two ideas, make something fresh.",
+      "chinese": "把两个想法混在一起, 做点新东西.",
+      "transliteration": "Bǎ liǎng gè xiǎngfǎ hùn zài yìqǐ, zuò diǎn xīn dōngxi.",
+      "category": "Creativity",
+      "generated_at": "2026-11-16T23:16:38.208657"
+    },
+    {
+      "english": "Write it down, then think again.",
+      "chinese": "先写下来, 然后再想一想.",
+      "transliteration": "Xiān xiě xiàlái, ránhòu zài xiǎng yí xiǎng.",
+      "category": "Creativity",
+      "generated_at": "2026-11-16T23:16:38.208659"
+    },
+    {
+      "english": "Tell me your idea in one sentence.",
+      "chinese": "把你的想法用一句话说出来.",
+      "transliteration": "Bǎ nǐ de xiǎngfǎ yòng yì jù huà shuō chūlái.",
+      "category": "Creativity",
+      "generated_at": "2026-11-16T23:16:38.208660"
     }
   ],
-  "last_updated": "2026-11-15T23:39:43.235121"
+  "last_updated": "2026-11-16T23:16:38.208662"
 }
