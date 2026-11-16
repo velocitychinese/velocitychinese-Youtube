@@ -57,7 +57,7 @@ def _post_pinned_comment(video_id, description, access_token, page_id):
             comment_url = f"https://graph.facebook.com/v21.0/{video_id}/comments"
             comment_data = {
                 'access_token': access_token,
-                'message': description
+                'message': description + "\n\n🌐 Learn more at our website: velocitychinese.com\nVisit velocitychinese.com for daily Chinese lessons!"
             }
             res_comment = requests.post(comment_url, data=comment_data, timeout=30)
             if res_comment.status_code == 200:
