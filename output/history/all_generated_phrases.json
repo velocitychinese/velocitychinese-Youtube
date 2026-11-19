@@ -8959,7 +8959,42 @@
       "transliteration": "Kàn lùpái, liúyì rìcháng Zhōngwén.",
       "category": "Purpose",
       "generated_at": "2026-11-19T01:34:51.285634"
+    },
+    {
+      "english": "I love you, more than words.",
+      "chinese": "我爱你，比语言更深。",
+      "transliteration": "Wo ai ni, bi yu yan geng shen.",
+      "category": "Love",
+      "generated_at": "2026-11-19T22:01:58.155517"
+    },
+    {
+      "english": "I really love you, today.",
+      "chinese": "今天我很爱你。",
+      "transliteration": "Jin tian wo hen ai ni.",
+      "category": "Love",
+      "generated_at": "2026-11-19T22:01:58.155529"
+    },
+    {
+      "english": "My day feels warm because of you.",
+      "chinese": "因为有你, 我的一天很温暖。",
+      "transliteration": "Yin wei you ni, wo de yi tian hen wen nuan.",
+      "category": "Love",
+      "generated_at": "2026-11-19T22:01:58.155531"
+    },
+    {
+      "english": "You make my heart feel safe.",
+      "chinese": "你让我心里很安心。",
+      "transliteration": "Ni rang wo xin li hen an xin.",
+      "category": "Love",
+      "generated_at": "2026-11-19T22:01:58.155532"
+    },
+    {
+      "english": "When I see you, I smile.",
+      "chinese": "一见到你, 我就笑了。",
+      "transliteration": "Yi jian dao ni, wo jiu xiao le.",
+      "category": "Love",
+      "generated_at": "2026-11-19T22:01:58.155533"
     }
   ],
-  "last_updated": "2026-11-19T01:34:51.285635"
+  "last_updated": "2026-11-19T22:01:58.155535"
 }
