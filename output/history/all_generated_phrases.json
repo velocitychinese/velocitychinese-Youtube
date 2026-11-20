@@ -9029,7 +9029,42 @@
       "transliteration": "Yuè nán yuè yào jìxù.",
       "category": "Perseverance",
       "generated_at": "2026-11-20T01:31:10.427401"
+    },
+    {
+      "english": "It’s okay, I’ll start fresh.",
+      "chinese": "没关系, 我重新开始。",
+      "transliteration": "Méi guānxi, wǒ chóngxīn kāishǐ.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-20T21:44:27.909522"
+    },
+    {
+      "english": "Thanks for understanding, we’re fine.",
+      "chinese": "谢谢你理解, 我们没事。",
+      "transliteration": "Xièxie nǐ lǐjiě, wǒmen méi shì.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-20T21:44:27.909532"
+    },
+    {
+      "english": "No hard feelings, really, it’s okay.",
+      "chinese": "别介意, 真的, 没关系。",
+      "transliteration": "Bié jièyì, zhēn de, méi guānxi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-20T21:44:27.909533"
+    },
+    {
+      "english": "I forgive you, let’s move on.",
+      "chinese": "我原谅你, 我们继续往前走。",
+      "transliteration": "Wǒ yuánliáng nǐ, wǒmen jìxù wǎng qián zǒu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-20T21:44:27.909534"
+    },
+    {
+      "english": "Let it pass, don’t worry.",
+      "chinese": "就让它过去, 别担心。",
+      "transliteration": "Jiù ràng tā guòqù, bié dānxīn.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-20T21:44:27.909535"
     }
   ],
-  "last_updated": "2026-11-20T01:31:10.427403"
+  "last_updated": "2026-11-20T21:44:27.909537"
 }
