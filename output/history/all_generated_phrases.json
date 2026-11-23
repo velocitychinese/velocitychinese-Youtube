@@ -9204,7 +9204,42 @@
       "transliteration": "mei tian lian yi dian, ji shao cheng duo",
       "category": "Motivation",
       "generated_at": "2026-11-22T20:38:33.625124"
+    },
+    {
+      "english": "Don’t worry, try it again, please.",
+      "chinese": "别急，再试一次，好吗？",
+      "transliteration": "Bie ji, zai shi yi ci, hao ma?",
+      "category": "Confidence",
+      "generated_at": "2026-11-23T00:32:58.002053"
+    },
+    {
+      "english": "I can do this, step by step.",
+      "chinese": "我可以的，一步一步来。",
+      "transliteration": "Wo keyi de, yi bu yi bu lai.",
+      "category": "Confidence",
+      "generated_at": "2026-11-23T00:32:58.002063"
+    },
+    {
+      "english": "Slow down, then speak naturally.",
+      "chinese": "慢一点，再自然地说。",
+      "transliteration": "Man yi dian, zai zi ran de shuo.",
+      "category": "Confidence",
+      "generated_at": "2026-11-23T00:32:58.002065"
+    },
+    {
+      "english": "Good job, you’re doing it.",
+      "chinese": "做得很好，你在进步。",
+      "transliteration": "Zuo de hen hao, ni zai jinbu.",
+      "category": "Confidence",
+      "generated_at": "2026-11-23T00:32:58.002066"
+    },
+    {
+      "english": "Say it with confidence, no fear.",
+      "chinese": "自信地说，别怕。",
+      "transliteration": "Zi xin de shuo, bie pa.",
+      "category": "Confidence",
+      "generated_at": "2026-11-23T00:32:58.002067"
     }
   ],
-  "last_updated": "2026-11-22T20:38:33.625126"
+  "last_updated": "2026-11-23T00:32:58.002069"
 }
