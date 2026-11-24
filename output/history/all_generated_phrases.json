@@ -9239,7 +9239,42 @@
       "transliteration": "Zi xin de shuo, bie pa.",
       "category": "Confidence",
       "generated_at": "2026-11-23T00:32:58.002067"
+    },
+    {
+      "english": "You keep showing up, every day.",
+      "chinese": "你每天都在坚持。",
+      "transliteration": "ni mei tian dou zai jian chi",
+      "category": "Strength",
+      "generated_at": "2026-11-24T02:15:03.716972"
+    },
+    {
+      "english": "Small wins add up, fast.",
+      "chinese": "小进步累积得很快。",
+      "transliteration": "xiao jin bu lei ji de hen kuai",
+      "category": "Strength",
+      "generated_at": "2026-11-24T02:15:03.716990"
+    },
+    {
+      "english": "You’re getting stronger, one lesson.",
+      "chinese": "每一节课你都更强了。",
+      "transliteration": "mei yi jie ke ni dou geng qiang le",
+      "category": "Strength",
+      "generated_at": "2026-11-24T02:15:03.716992"
+    },
+    {
+      "english": "Mistakes happen, you learn anyway.",
+      "chinese": "犯错没关系，你照样在进步。",
+      "transliteration": "fan cuo mei guan xi, ni zhao yang zai jin bu",
+      "category": "Strength",
+      "generated_at": "2026-11-24T02:15:03.716993"
+    },
+    {
+      "english": "Speak up now, don’t hold back.",
+      "chinese": "现在就开口，别退缩。",
+      "transliteration": "xian zai jiu kai kou, bie tui suo",
+      "category": "Strength",
+      "generated_at": "2026-11-24T02:15:03.716994"
     }
   ],
-  "last_updated": "2026-11-23T00:32:58.002069"
+  "last_updated": "2026-11-24T02:15:03.716996"
 }
