@@ -9547,7 +9547,28 @@
       "transliteration": "Wǒ gǎnjǐn zuò ge zǎofàn.",
       "category": "Daily Routine",
       "generated_at": "2026-11-27T18:34:15.197073"
+    },
+    {
+      "english": "Taxi, to the nearest subway station, please.",
+      "chinese": "师傅，去最近的地铁站。",
+      "transliteration": "Shī fù, qù zuì jìn de dì tiě zhàn.",
+      "category": "Taxi",
+      "generated_at": "2026-11-27T19:17:18.742624"
+    },
+    {
+      "english": "How much to the airport, please?",
+      "chinese": "去机场要多少钱？",
+      "transliteration": "Qù jī chǎng yào duō shao qián?",
+      "category": "Taxi",
+      "generated_at": "2026-11-27T19:17:18.742636"
+    },
+    {
+      "english": "Turn left at the second intersection.",
+      "chinese": "第二个路口左转。",
+      "transliteration": "Dì èr gè lù kǒu zuǒ zhuǎn.",
+      "category": "Taxi",
+      "generated_at": "2026-11-27T19:17:18.742638"
     }
   ],
-  "last_updated": "2026-11-27T18:34:15.197074"
+  "last_updated": "2026-11-27T19:17:18.742640"
 }
