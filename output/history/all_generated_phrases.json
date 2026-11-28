@@ -9589,7 +9589,28 @@
       "transliteration": "Nǐ zài shuā xīn yí xià yè miàn shì shì",
       "category": "Technology",
       "generated_at": "2026-11-28T11:40:53.117089"
+    },
+    {
+      "english": "I’m starting work now, okay?",
+      "chinese": "我现在开始上班了，好吗？",
+      "transliteration": "Wǒ xiànzài kāishǐ shàngbān le, hǎo ma?",
+      "category": "Work",
+      "generated_at": "2026-11-28T17:30:53.892554"
+    },
+    {
+      "english": "Don’t worry, I’ll handle it.",
+      "chinese": "别担心，我来搞定。",
+      "transliteration": "Bié dānxīn, wǒ lái gǎo dìng.",
+      "category": "Work",
+      "generated_at": "2026-11-28T17:30:53.892568"
+    },
+    {
+      "english": "Please send it to my email.",
+      "chinese": "你把它发到我邮箱吧。",
+      "transliteration": "Nǐ bǎ tā fā dào wǒ yóuxiāng ba.",
+      "category": "Work",
+      "generated_at": "2026-11-28T17:30:53.892569"
     }
   ],
-  "last_updated": "2026-11-28T11:40:53.117091"
+  "last_updated": "2026-11-28T17:30:53.892571"
 }
