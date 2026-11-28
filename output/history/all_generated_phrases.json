@@ -9568,7 +9568,28 @@
       "transliteration": "Dì èr gè lù kǒu zuǒ zhuǎn.",
       "category": "Taxi",
       "generated_at": "2026-11-27T19:17:18.742638"
+    },
+    {
+      "english": "I can't log in right now.",
+      "chinese": "我现在登不上去。",
+      "transliteration": "Wǒ xiànzài dēng bù shàng qù",
+      "category": "Technology",
+      "generated_at": "2026-11-28T11:40:53.117076"
+    },
+    {
+      "english": "Why is the app stuck again?",
+      "chinese": "为啥这app又卡住了？",
+      "transliteration": "Wèishá zhè a p p yòu kǎ zhù le",
+      "category": "Technology",
+      "generated_at": "2026-11-28T11:40:53.117088"
+    },
+    {
+      "english": "Please try refreshing the page.",
+      "chinese": "你再刷新一下页面试试。",
+      "transliteration": "Nǐ zài shuā xīn yí xià yè miàn shì shì",
+      "category": "Technology",
+      "generated_at": "2026-11-28T11:40:53.117089"
     }
   ],
-  "last_updated": "2026-11-27T19:17:18.742640"
+  "last_updated": "2026-11-28T11:40:53.117091"
 }
